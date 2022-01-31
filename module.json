@@ -1,0 +1,15 @@
+{
+  "name": "wwn-dice-calculator",
+  "version": "0.1.0",
+  "url": "https://github.com/reckenrode/wwn-dice-calculator",
+  "title": "WWN Dice Calculator",
+  "description": "A Dice Calculator system for Worlds Without Number",
+  "author": "Randy Eckenrode",
+  "manifest": "https://raw.githubusercontent.com/reckenrode/wwn-dice-calculator/main/module.json",
+  "download": "https://github.com/reckenrode/wwn-dice-calculator/archive/v0.1.0.zip",
+  "compatibleCoreVersion": "9",
+  "minimumCoreVersion": "9",
+  "scripts": [
+    "scripts/wwn-dice-system.js"
+  ]
+}
